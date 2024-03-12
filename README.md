@@ -19,7 +19,7 @@ $  npm install # or yarn
 ```
 
 ### 3. Adding the Access token
-Create a new empty Space and exchange the preview token with your own in ```app/layout.js``` and ```components/StoryblokProvider.js```
+Create a new empty Space (or use this magical [link](https://app.storyblok.com/#!/build/276801) to build the space used with this repo ) and exchange the preview token with your own in ```app/layout.js``` and ```components/StoryblokProvider.js```
 
 ```js
 // in app/layout.js
